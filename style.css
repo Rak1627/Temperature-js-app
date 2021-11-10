@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body {
+    background-color: #fad390;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+form {
+  text-align: center;
+    background-color: #f8c291;
+    width: 60%;
+    margin: 0 auto;
+    padding: 30px;
+}
+input[type=submit] {
+    background: #000;
+    color: #fff;
+    margin-top: 20px;
+    padding: 8px 20px;
+
+}
